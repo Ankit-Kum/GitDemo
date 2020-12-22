@@ -6,6 +6,8 @@ public class Test2 {
 
 		
 		System.out.println("Hi Classs");
+		System.out.println("Hi CDAC");
 	}
+	
 
 }
